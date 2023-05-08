@@ -1,0 +1,7 @@
+{
+  "name": "vingo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
